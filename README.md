@@ -12,7 +12,7 @@ user: ugo
 password: 123
 
 Base:
-Ubunutu Minimal 18.04 64bits com Lubunto Desktop
+Ubunutu Minimal 18.04 64bits com Lubuntu Desktop
 
 
 Modificações do sistema:
