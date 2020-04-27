@@ -68,8 +68,7 @@ Entre em contato com o [Desenvolvedor] para informações de como pode entrar pa
 
 - `Desenvolvimento do ugOS`
 
-Guilherme Floriano (Floripa)
-Gustavo Kruschewsky (Sr. K)
+Guilherme Floriano (Floripa), Gustavo Kruschewsky (Sr. K)
 
 - `README.md`
 
