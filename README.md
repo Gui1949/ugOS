@@ -9,7 +9,7 @@
 ![fork-img]
 ![stars-img]
 
-Este é um sistema operacional desenvolvido com base em *Ubunutu Minimal 18.04 64bits*, com interface baseada em *Lubuntu Desktop* e personalização estilizada do glorioso *Microsoft Windows XP* - roseMode.
+Este é um sistema operacional desenvolvido com base em *Ubunutu Minimal 18.04 64bits*, com interface baseada em *Lubuntu Desktop* e personalização estilizada do glorioso *Microsoft Windows XP.*
 
 ### Principais Modificações
 - Tema
@@ -20,7 +20,7 @@ Este é um sistema operacional desenvolvido com base em *Ubunutu Minimal 18.04 6
 
 ![](./assets/img/head.png)
 
-_Mais imagens em [assets/img](./assets/img)._
+_Obs.: Mais imagens em [assets/img](./assets/img)._
 
 ### NOTA
 
@@ -28,6 +28,8 @@ _Mais imagens em [assets/img](./assets/img)._
 
 Durante o desenvolvimento modificamos permissões de diversas pastas (chmod 777).
 Não recomendamos que use essa versão como seu sistema principal, espere a proxima versão!
+
+>Assinado: Desenvolvedor
 
 ## Instalação
 ### Requisitos minímos
@@ -38,24 +40,25 @@ Não recomendamos que use essa versão como seu sistema principal, espere a prox
 
 ### Execução
 <!-- Contagem começa do 0 porque nóis é programador -->
-0. Faça o [donwload da ISO do ugOS][ugOS]
+0. Faça o [donwload da ISO do ugOS][ugOS];
 
 1. Após o download, abra o [Oracle VM VirtualBox][vbox] e acrescente uma nova máquina baseada nos requisitos mencionados na sessão requisitos minímos;
 
-2. No momento da inicialização da nova máquina aponte para ISO do ugOS, que você acabou de baixar.
+2. No momento da inicialização da nova máquina aponte para ISO do ugOS, que você acabou de baixar;
 
-3. Inicie o sistema operacional utilizado as [váriaveis de ambiente](./env/.env)
+3. Inicie o sistema operacional utilizado as [váriaveis de ambiente](./env/.env);
 
-4. USE
+4. USE!
 
 
 ## Exemplo se uso
-Nele você encontrará diversos apps nativos (não licenciados, porém funcionais), como *Wine, MsPaint, Office 97,* entre outros.
+Neste OS você encontrará diversos apps nativos (não licenciados, porém funcionais), como *Wine, MsPaint, Office 97,* entre outros.
 
-Divirta-se como excelentes jogos como *CS 1.6, Pinball,  Extreme tux racer*
+Divirta-se com excelentes jogos, *CS 1.6, Pinball,  Extreme tux racer* são exemplos do que estão nativamente no ugOS.
 
+Tudo isso com a super interface customizada do WinXP.
 ## Configuração para Desenvolvimento
-Entre em contato com o [Desenvolvedor] para informações de como pode contribuir.
+Entre em contato com o [Desenvolvedor] para informações de como pode entrar para o time de desenvolvimento.
 
 ## Histórico de lançamento
  * 0.1
