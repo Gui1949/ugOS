@@ -66,6 +66,11 @@ Entre em contato com o [Desenvolvedor] para informações de como pode entrar pa
 
 ## Meta
 
+- `Desenvolvimento do ugOS`
+
+Guilherme Floriano (Floripa)
+Gustavo Kruschewsky (Sr. K)
+
 - `README.md`
 
 Douglas Damasio - [@douglasdamasio] - douglasdamasio18@gmail.com
