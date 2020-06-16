@@ -40,7 +40,7 @@ Não recomendamos que use essa versão como seu sistema principal, espere a prox
 
 ### Execução
 <!-- Contagem começa do 0 porque nóis é programador -->
-0. Faça o [donwload da ISO do ugOS][ugOS];
+0. Faça o [download da ISO do ugOS][ugOS];
 
 1. Após o download, abra o [Oracle VM VirtualBox][vbox] e acrescente uma nova máquina baseada nos requisitos mencionados na sessão requisitos minímos;
 
